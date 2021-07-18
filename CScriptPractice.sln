@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLuaPractice", "NLuaPractic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuaPracticeTest", "Test\LuaPracticeTest\LuaPracticeTest.csproj", "{4E0307FF-2160-4FFD-A890-7E6B3BA52EAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsMSTestSample", "JenkinsMSTestSample\JenkinsMSTestSample.csproj", "{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{4E0307FF-2160-4FFD-A890-7E6B3BA52EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4E0307FF-2160-4FFD-A890-7E6B3BA52EAA}.Release|x86.ActiveCfg = Release|x86
 		{4E0307FF-2160-4FFD-A890-7E6B3BA52EAA}.Release|x86.Build.0 = Release|x86
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Debug|x86.Build.0 = Debug|Any CPU
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Release|x86.ActiveCfg = Release|Any CPU
+		{AD47BF55-9EFC-4D9F-9904-0B235602B1E1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
